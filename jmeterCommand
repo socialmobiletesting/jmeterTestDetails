@@ -1,0 +1,1 @@
+jmeter.bat -n -t C:\Avisek\apache-jmeter-5.6.3\Avisek\Kafka.jmx -Jduration=10 -l C:\Avisek\apache-jmeter-5.6.3\Avisek\kafka_06_12_1.csv
